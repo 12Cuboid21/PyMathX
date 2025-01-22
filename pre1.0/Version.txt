@@ -1,3 +1,0 @@
-First Ever release of PyMathX
-
-PyMathX_pre-rel-1.0
